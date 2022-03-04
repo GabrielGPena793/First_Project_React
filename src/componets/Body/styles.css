@@ -1,0 +1,12 @@
+main{
+    background: linear-gradient(337deg, #db3147, #841ec3);
+    padding: 3rem 0;
+}
+
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 1rem;
+    width: 100%;
+}

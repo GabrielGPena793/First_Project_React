@@ -1,0 +1,31 @@
+.card{
+    text-align: center;
+    margin-top: 2rem;
+    transition: 0.5s;
+}
+
+
+.card:hover{
+    transform: scale(1.03);
+}
+
+.card_img{
+    width: 30rem;
+    border-radius: 11%;
+}
+
+.card-title{
+    margin-top: 1rem;
+}
+
+.card-description{
+    width: 30rem;
+}
+
+
+.card-container-title{
+    background-color: #fde7f959;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 8px;
+}
